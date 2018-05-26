@@ -1,5 +1,16 @@
 # 1. Introduction: five first lessons
 
+---
+Why game theory matters
+
+I'm actually on Lecture 4 by the time i came up whith this.
+
+Bret W says ... ?
+
+It's said "Games keep popping up all over our lives". For me it's cleaner to say someting along the lines of 
+> for every aspect of our lives, if you can find a way to describe it in these terms, then you can use these tools to make analysis and predictions
+---
+
 [0:30s] looked for handouts online for Game 1 and Game 2. There are resources available for download on the course [homepage](https://oyc.yale.edu/economics/econ-159), but have yet to find these specifically.
 
 There are 2 textbooks. 
